@@ -19,9 +19,9 @@ the dashboard.
 
 Requirements:
 
-Python 3.x
-Streamlit
-Pandas
-MySQL Connector
-SQLAlchemy
-Requests
+1. Python 3.x
+2. Streamlit
+3. Pandas
+4. MySQL Connector
+5. SQLAlchemy
+6. Requests
